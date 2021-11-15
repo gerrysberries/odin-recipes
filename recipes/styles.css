@@ -1,0 +1,10 @@
+.header {
+    color: maroon;
+    font-family: "Verdana", sans-serif;
+}
+
+h1,
+li,
+p {
+    color: maroon;
+}
